@@ -28,4 +28,4 @@ The dataset contains records of loan applications with details like:
 - Short-term loans perform better than long-term ones
 - Default rates increase with higher loan amounts and interest rates
 
-- [File Location]([https://drive.google.com/drive/folders/1hStMGuKxUhlHO_F8FpglDmGvYqmT3KOb?usp=sharing]))
+- File Location: https://drive.google.com/drive/folders/1hStMGuKxUhlHO_F8FpglDmGvYqmT3KOb?usp=sharing
