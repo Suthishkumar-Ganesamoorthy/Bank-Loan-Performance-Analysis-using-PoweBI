@@ -27,3 +27,5 @@ The dataset contains records of loan applications with details like:
 - Loans with higher grades (A & B) have lower default rates
 - Short-term loans perform better than long-term ones
 - Default rates increase with higher loan amounts and interest rates
+
+- [File Location]([url](https://drive.google.com/drive/folders/1hStMGuKxUhlHO_F8FpglDmGvYqmT3KOb?usp=sharing))
